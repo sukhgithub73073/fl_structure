@@ -1,0 +1,44 @@
+part of'constants.dart';
+
+abstract class BodyConst {
+  static const String firstName="firstName";
+  static const String lastName="lastName";
+  static const String email="email";
+  static const String latitude="latitude";
+  static const String longitude="longitude";
+  static const String countryCode="countryCode";
+  static const String newUser="newUser";
+  static const String mobileNumber="mobileNumber";
+  static const String dob="dob";
+  static const String pinNumber="pinNumber";
+  static const String password="password";
+  static const String confirmPassword="confirmPassword";
+  static const String userId = "userId";
+  static const String userFullName = "userFullName";
+  static const String value = "value";
+  static const String blockBy = "blockBy";
+  static const String phone = "phone";
+  static const String image = "image";
+  static const String deviceToken = "deviceToken";
+  static const String sendBy = "sendBy";
+  static const String message = "message";
+  static const String uid = "uid";
+  static const String type = "type";
+  static const String members = "members";
+  static const String membersEmail = "membersEmail";
+  static const String groupName = "groupName";
+  static const String groupImage = "groupImage";
+  static const String createdTime = "createdTime";
+  static const String lastMessage = "lastMessage";
+  static const String chatMessageCount = "chatMessageCount";
+  static const String name = "name";
+  static const String timeObject = "timeObject";
+  static const String chatGroupId = "chat_group_id";
+  static const String sosUsers="sosUsers";
+  static const String title="title";
+  static const String fcmToken="fcmToken";
+  static const String notificationType="notificationType";
+  static const String location="location";
+  static const String video="video";
+  static const String contacts="contacts";
+}
