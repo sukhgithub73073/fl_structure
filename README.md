@@ -47,11 +47,6 @@
 
 ---
 
-## 📸 Screenshots *(optional)*
-
-_Add screenshots here if available to show folder structure, login UI, or log examples._
-
----
 
 ## 🧪 Getting Started
 
