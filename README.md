@@ -21,19 +21,6 @@
 
 ## 📦 What's Included
 
-### 🧠 Project Structure (Clean Architecture)
-
-lib/
-├── core/ # Network utils, constants, response handlers
-├── data/ # Models, Repositories
-├── logic/ # Cubits/Blocs, States, Events
-├── presentation/ # UI Screens, Widgets
-├── utils/ # Logger, Toast, Validators, Extensions
-├── main.dart
-
-
----
-
 ### 🔑 Authentication Module
 
 - Auth model with login/register structure
